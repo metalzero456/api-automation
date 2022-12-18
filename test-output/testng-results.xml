@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-18T16:08:41 WIB" name="Default suite" finished-at="2022-12-18T16:08:42 WIB" duration-ms="1706">
+    <groups>
+    </groups>
+    <test started-at="2022-12-18T16:08:41 WIB" name="Default test" finished-at="2022-12-18T16:08:42 WIB" duration-ms="1706">
+      <class name="getRequest.GetData">
+        <test-method signature="validateJsonSchema()[pri:0, instance:getRequest.GetData@4681c175]" started-at="2022-12-18T16:08:41 WIB" name="validateJsonSchema" finished-at="2022-12-18T16:08:42 WIB" duration-ms="1685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateJsonSchema -->
+      </class> <!-- getRequest.GetData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
