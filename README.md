@@ -15,3 +15,5 @@ How to:
 6. Rest assured will check if the schema is correct as defined
 7. The amount of beer printed with its name
 8. Done :)
+
+Test demo video : https://youtu.be/9-hVMuXDOnw
